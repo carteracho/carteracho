@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carteracho
-- 👀 I’m interested in software development; gaming, fianncial services, piano, and making friends
+- 👀 I’m interested in software development; gaming, fianncial services, piano, and meeting new people
 - 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on begguinner coding and fun side projects
+- 💞️ I’m looking to collaborate on begginner coding and fun side projects
 - 📫 How to reach me follow my instagram @cartersambition
 
 <!---
